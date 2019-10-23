@@ -1,0 +1,15 @@
+{
+  "name": "cross-domain-proxy",
+  "version": "1.0.0",
+  "description": "nodeJS搭建代理服务器解决跨域问题",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^0.20.0"
+  }
+}
